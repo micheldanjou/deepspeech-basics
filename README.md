@@ -11,7 +11,8 @@ The jupyter notebook covers how to setup a Google Colab environment for **Mozill
   * `pip install deepspeech`
   * `pip install -r requirements.txt`
   
-The notebook continues on with 
+The notebook continues on with: 
   * running a transcription example from Mozilla's docs.
   * running a training example from Mozilla's docs.
   
+And finishes with an attempt to train a new network to recognise a complex word such as the name of an antibiotic.
