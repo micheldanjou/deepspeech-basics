@@ -2,7 +2,7 @@
 I am creating this project to learn about [Baidu's DeepSpeech](https://arxiv.org/abs/1412.5567) and its implementation by Mozilla.
 
 
-The jupyter notebook covers how to setup a Google Colab environment for **Mozilla's implmentation of DeepSpeech 0.6.1**:
+The jupyter notebook covers how to setup a Google Colab environment for **DeepSpeech 0.6.1**:
 
 Setup steps:
   * install `git lfs`
