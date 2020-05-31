@@ -9,7 +9,7 @@ The jupyter notebook covers how to setup a Google Colab environment for **Mozill
   * download the sample audio files
   * clone Mozilla's git repo
   * `pip install deepspeech`
-  * `pip install -r requirements.txt
+  * `pip install -r requirements.txt`
   
 The notebook continues on with 
   * running a transcription example from Mozilla's docs.
