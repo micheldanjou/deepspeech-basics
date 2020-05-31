@@ -1,8 +1,10 @@
 # deepspeech-basics
-I am creating this project to learn about DeepSpeech.
+I am creating this project to learn about [Baidu's DeepSpeech](https://arxiv.org/abs/1412.5567) and its implementation by Mozilla.
 Nothing fancy here.
 
 The jupyter notebook covers how to setup a Google Colab environment for **Mozilla's implmentation of DeepSpeech 0.6.1**:
+
+Setup steps:
   * install `git ls`
   * download the DeepSpeech model as described in the [release notes](https://github.com/mozilla/DeepSpeech/releases/tag/v0.6.1)
   * download the checkpoint file
